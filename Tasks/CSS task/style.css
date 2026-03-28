@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+.high{
+    color:red;
+    background-color: black;
+    padding-bottom: 0px;
+    padding-left: 111px;
+    padding-right: 111px;
+    padding-bottom: 111px;
+    padding-top: 111px;
+}
