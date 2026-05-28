@@ -1,4 +1,4 @@
-let name = "Varsha";
+let name = "Varnna";
 let age = 21;
 let favColor = "Blue";
 
